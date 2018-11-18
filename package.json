@@ -11,6 +11,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "@arc-core-components/content-schema_ans-document-v0.6.2": "^0.1.3",
+    "@arc-core-components/content-schema_ans-feed-v0.6.2": "^0.1.3",
+    "@arc-core-components/content-source_content-api-v4": "^0.1.16",
+    "@arc-core-components/content-source_story-feed_author-v4": "^0.1.14",
+    "@arc-core-components/content-source_story-feed_sections-v4": "^0.1.2",
+    "@arc-core-components/content-source_story-feed_tag-v4": "^0.1.2",
+    "@arc-core-components/feature_ads-arc-ad": "^0.1.2",
+    "@arc-core-components/feature_article-body": "^0.1.14",
+    "@arc-core-components/feature_global-feed-driven-flex-feature": "^0.1.12",
+    "prop-types": "^15.6.2"
+  },
   "devDependencies": {
     "@arc-fusion/cli": "^0.1.38"
   }
