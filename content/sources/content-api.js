@@ -1,17 +1,14 @@
-'use strict'
+const resolve = (key) => {
+  const requestUri = `/content/v4/stories/?website_url=${ key.website_url || key }&website=demo`;
 
-const resolve = function resolve (key) {
-
-  const website = key['arc-site'] || 'demo'
-  const requestUri = `/content/v4/stories/?website_url=${key.website_url}&website=${website}`
-
-  return (key.hasOwnProperty('published'))
-    ? `${requestUri}&published=${key.published}`
-    : requestUri
+  return (key.hasOwnProperty('published')) ? `${requestUri}&published=${key.published}` : requestUri
 }
 
-module.exports = {
+export default {
   resolve,
-  schemaName: 'ans-document',
-  params: {website_url : 'text'}
+  schemaName: 'article',
+  params: {
+    website_url : 'text',
+    published: 'text'
+  }
 }

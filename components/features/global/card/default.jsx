@@ -9,7 +9,7 @@ class Card extends Component {
 
     return (
       <article className='col-sm-12'>
-        <h1>{content.headlines.basic}</h1>
+        <h1>{content.headlines.basic}!</h1>
       </article>
     )
   }
