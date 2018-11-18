@@ -1,3 +1,3 @@
 # fusion-01
 
-On this branch, we've created and customized a new output type, `default.jsx`, which will become the backbone of our pages.
+On this branch, we've created and customized a new layout, `basic.jsx`, which add semantic markup to our pages.
