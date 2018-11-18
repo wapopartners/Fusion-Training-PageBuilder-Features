@@ -1,0 +1,17 @@
+{
+  "name": "fusion-training-PageBuilder-features",
+  "version": "1.0.0",
+  "description": "To get started, install the Fusion CLI, then run `fusion init`",
+  "main": "index.js",
+  "scripts": {
+    "fusion": "fusion",
+    "start": "fusion start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@arc-fusion/cli": "^0.1.38"
+  }
+}
