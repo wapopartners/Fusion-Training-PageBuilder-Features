@@ -27,14 +27,7 @@ class Card extends Component {
     const { breakingAlertText, showAuthorInfo = false } = this.props.customFields
 
     return (
-      <article className='col-sm-12'>
-        {breakingAlertText &&
-          <span>{breakingAlertText}</span>}
-        <h1>{content && content.headlines && content.headlines.basic}</h1>
-        {showAuthorInfo &&
-          <span>{content.credits.by[0].name}</span>}
-        <h3>News from {siteVars.defaultSiteTitle}</h3>
-      </article>
+      <div> It's AMP!</div>
     )
   }
 }
