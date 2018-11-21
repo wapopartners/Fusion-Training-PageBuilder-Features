@@ -5,11 +5,25 @@ import PropTypes from 'prop-types'
 
 @Consumer
 class Card extends Component {
+  constructor(props){
+    super(props)
+
+    // We're destructuring the `contentService` and `contentConfigValues` keys out of the `movieListConfig` prop inside `this.props.customFields`...
+    const { contentService, contentConfigValues } = this.props.customFields.articleConfig
+
+    this.fetchContent({
+      article: {
+        source: contentService,
+        query: contentConfigValues
+      }
+    })
+  }
+
   render () {
-    const content = this.props.globalContent
+    const content = this.state.article
     // We can extract our custom field values here, and even set default values if desired...
     const { breakingAlertText, showAuthorInfo = false } = this.props.customFields
-    console.log(content);
+
     return (
       <article className='col-sm-12'>
         {breakingAlertText &&
@@ -24,14 +38,13 @@ class Card extends Component {
 
 Card.propTypes = {
   customFields: PropTypes.shape({
+    // We're using the Fusion-specific PropType `contentConfig` and passing it the name(s) of the GraphQL schemas this component will work with
+    articleConfig: PropTypes.contentConfig('article'),
     breakingAlertText: PropTypes.string,
     showAuthorInfo: PropTypes.bool
-  }),
-  globalContent: PropTypes.shape({
-    headlines: PropTypes.shape({
-      basic: PropTypes.string
-    })
   })
 }
+
+Card.static = true
 
 export default Card
