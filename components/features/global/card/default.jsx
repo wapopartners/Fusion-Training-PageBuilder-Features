@@ -2,12 +2,12 @@
 import Consumer from 'fusion:consumer'
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
+import getProperties from 'fusion:properties'
 
 @Consumer
 class Card extends Component {
   constructor(props){
     super(props)
-
     // We're destructuring the `contentService` and `contentConfigValues` keys out of the `movieListConfig` prop inside `this.props.customFields`...
     const { contentService, contentConfigValues } = this.props.customFields.articleConfig
 
@@ -21,6 +21,8 @@ class Card extends Component {
 
   render () {
     const content = this.state.article
+    const siteVars = getProperties(this.props.arcSite)
+
     // We can extract our custom field values here, and even set default values if desired...
     const { breakingAlertText, showAuthorInfo = false } = this.props.customFields
 
@@ -31,6 +33,7 @@ class Card extends Component {
         <h1>{content && content.headlines && content.headlines.basic}</h1>
         {showAuthorInfo &&
           <span>{content.credits.by[0].name}</span>}
+        <h3>News from {siteVars.defaultSiteTitle}</h3>  
       </article>
     )
   }
@@ -45,6 +48,6 @@ Card.propTypes = {
   })
 }
 
-Card.static = true
+// Card.static = true
 
 export default Card

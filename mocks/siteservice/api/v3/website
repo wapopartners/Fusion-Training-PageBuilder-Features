@@ -1,7 +1,22 @@
 [
   {
     "_id": "demo",
-    "display_name": "Demo?",
+    "display_name": "Demo",
     "is_default_website": true
+  },
+  {
+    "_id": "bugle",
+    "display_name": "The Bugle",
+    "is_default_website": false
+  },
+  {
+    "_id": "the-planet",
+    "display_name": "The Planet",
+    "is_default_website": false
+  },
+  {
+    "_id": "the-news",
+    "display_name": "The News",
+    "is_default_website": false
   }
 ]
