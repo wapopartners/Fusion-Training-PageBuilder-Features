@@ -1,7 +1,15 @@
-# fusion-05
+# fusion-09
 
-## Description
-This branch is the starter code for Task 6 in the Fusion training curriculum.
+## User story
+As a user, I would like to group features together to create more complex layouts.
 
-## User Story
-As a user, I would like to be able to render many pieces of content via this template in the browser.
+## Concepts
+- Chains
+- Multiple features
+
+## New files:
+- `/components/chains/default.jsx`
+- `/components/chains/double-chain.jsx`
+
+## What's next
+This branch gives us the major components for creating a manually curated page (albeit a simple one) within PageBuilder. But what about rendering a full article? Switch to branch `fusion-10` to see one way to prototype an article body feature in just a few commands.
