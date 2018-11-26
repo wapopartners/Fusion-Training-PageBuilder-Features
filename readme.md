@@ -1,7 +1,16 @@
-# fusion-05
+# fusion-10
 
-## Description
-This branch is the starter code for Task 6 in the Fusion training curriculum.
+## User story
+As a user, I would like to be able to add an article body feature to my page.
 
-## User Story
-As a user, I would like to be able to render many pieces of content via this template in the browser.
+## Concepts
+- Core Components
+
+## New files:
+- `/components/features/article/default.jsx`
+
+## Changed files
+- `package.json`
+
+## What's next
+So far, everything we've worked on assumes we're building out a single site. If you are developing for multiple sites, however, we'll need to introduce some additional concepts. Switch to branch `fusion-11` to learn more about how to start implementing "multi-site" functionality in your repo.
