@@ -10,4 +10,4 @@ Each branch name corresponds to the last completed step in the code on the branc
 It's important to note that the code in this repo may differ from the code written on-the-spot in your training session. However, the files will contain the same information and represent a complete version of each concept.
 
 ## What next?
-To use this repo, clone the repo to your local machine and check out a new branch from `master`. This is the starting point for user story Fusion-00.
+To use this repo, clone the repo to your local machine and check out a new branch (any name is fine) from `master`. This is the starting point for [user story](https://docs.google.com/document/d/1a7uqLqjnWNrATSmSk9iTVZ0Z7bedATIYSYxMfbuUT4s/edit) Fusion-01.
