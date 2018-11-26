@@ -1,17 +1,15 @@
 # Fusion-01
-On this branch, we've updated the `default` output type, introducing ourselves to some core PageBuilder concepts. Without an output type, PageBuilder can't render anything!
+On this branch, we've created a `package.json` file, installed the Fusion CLI as a dev dependency, and run the `fusion init` command.
 
 ## User Story
-As a user, I would like to be able to render content via a default output type, which is natively recognized by PageBuilder and allows me to customize the head and foot of my page.
+As a user, I would like to scaffold a new PageBuilder Feature Pack via command line.
 
 ## Concepts
-- Output Types
+- Fusion CLI
+- Feature Pack structure
 
 ## New Files
-- None
-
-## Changed Files
-- `/components/output-types/default.jsx`
+- everything
 
 ## What's next?
-An output type provides a common backbone for all of our pages, so now we'll explore how we can start adding some semantic HTML and customization. The first concept to tackle in this regard is layouts. Switch to `fusion-02` to view a completed layout.
+Everything! This branch is the starting point for the rest of our training curriculum. First up: Output types! Switch to branch `fusion-02` to see an output type in action.
