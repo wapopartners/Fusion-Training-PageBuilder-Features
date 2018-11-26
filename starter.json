@@ -1,15 +1,12 @@
 {
   "type": "story",
   "version": "0.5.8",
-
   "headlines": {
     "basic": "My First Arc Document"
   },
-
   "subheadlines": {
     "basic": "Created in Arc"
   },
-
   "content_elements": [
     {
       "type": "text",
