@@ -1,7 +1,14 @@
-# fusion-05
+# fusion-11
 
-## Description
-This branch is the starter code for Task 6 in the Fusion training curriculum.
+## User story
+As a user, I would like configure my pages to use site-specific variables.
 
-## User Story
-As a user, I would like to be able to render many pieces of content via this template in the browser.
+## Concepts
+- Runtime Properties
+
+## New files:
+- `/properties/index.js`
+- `/properties/sites/demo.js`
+
+## What's next
+Our next task is to consider how we can use PageBuilder to render content for different outputs that require special formats. Switch to branch `fusion-12` to learn more about working with multiple output types.
