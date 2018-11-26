@@ -1,0 +1,24 @@
+{
+  "type": "story",
+  "version": "0.5.8",
+
+  "headlines": {
+    "basic": "My First Arc Document"
+  },
+
+  "subheadlines": {
+    "basic": "Created in Arc"
+  },
+
+  "content_elements": [
+    {
+      "type": "text",
+      "content": "This document was created via a call to the Story API."
+    },
+    {
+      "type": "text",
+      "content": "My favorite animal is the kangaroo."
+    }
+  ],
+  "display_date": "2017-12-11T14:42:51-05:00"
+}
