@@ -18,6 +18,7 @@ export default ({
       <Libs />
       <CssLinks />
       <link rel='icon' type='image/x-icon' href={deployment(`${contextPath}/resources/favicon.ico`)} />
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" />
     </head>
     <body>
       <div id='fusion-app'>
