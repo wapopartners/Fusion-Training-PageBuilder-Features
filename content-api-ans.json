@@ -1,0 +1,1471 @@
+{
+    "_id": "5AHQS7NI6FFGNL2GGSKHUBTW5E",
+    "type": "story",
+    "version": "0.7.1",
+    "content_elements": [
+        {
+            "_id": "E4BC3SQNBFDUFFYMNQGPJZQ2GM",
+            "additional_properties": {
+                "galleries": [],
+                "ingestionMethod": "manual",
+                "keywords": [],
+                "mime_type": "image/jpeg",
+                "originalName": "WIEA4KGHOEI6RHAPF75PNVBCVI.jpg",
+                "originalUrl": "https://arc-anglerfish-arc2-prod-demo.s3.amazonaws.com/public/E4BC3SQNBFDUFFYMNQGPJZQ2GM.jpg",
+                "owner": "megan.pantlin@washpost.com",
+                "proxyUrl": "/photo/resize/tWgSQvuh0HPgeFvqIPgQl00MEwk=/arc-anglerfish-arc2-prod-demo/public/E4BC3SQNBFDUFFYMNQGPJZQ2GM.jpg",
+                "published": true,
+                "resizeUrl": "http://resizer.shared.arcpublishing.com/tWgSQvuh0HPgeFvqIPgQl00MEwk=/arc-anglerfish-arc2-prod-demo/public/E4BC3SQNBFDUFFYMNQGPJZQ2GM.jpg",
+                "restricted": false,
+                "version": 0,
+                "comments": [],
+                "_id": "M7NYINNKU5FARCHBQ5SITFS334"
+            },
+            "address": {},
+            "created_date": "2018-10-04T15:27:26Z",
+            "credits": {
+                "affiliation": []
+            },
+            "height": 1069,
+            "last_updated_date": "2018-10-04T15:27:26Z",
+            "licensable": false,
+            "owner": {
+                "id": "demo",
+                "sponsored": false
+            },
+            "subtitle": "caps",
+            "type": "image",
+            "url": "https://arc-anglerfish-arc2-prod-demo.s3.amazonaws.com/public/E4BC3SQNBFDUFFYMNQGPJZQ2GM.jpg",
+            "version": "0.6.2",
+            "width": 1484,
+            "selectedDistCat": null
+        },
+        {
+            "_id": "XDZ6D6VKRBA3VNAPESJSER547I",
+            "type": "text",
+            "additional_properties": {
+                "comments": [],
+                "inline_comments": [],
+                "_id": 1538683858827
+            },
+            "content": "New England Flag &amp; Banner president Ned Flynn generally doesn’t leave his home state of Massachusetts to attend his clients’s banner-raising ceremonies, but he made an exception Wednesday, and not only because it gave him a chance to see his childhood team open the season against the defending Stanley Cup champions."
+        },
+        {
+            "_id": "IAQZMN2TBRGFTDD5QMYG4KUW24",
+            "type": "text",
+            "additional_properties": {
+                "comments": [],
+                "inline_comments": [],
+                "_id": 1538683858828
+            },
+            "content": "Flynn’s younger daughter, Elizabeth, is a second-grade teacher in Falls Church. Raised a Boston Bruins fan like her dad, Elizabeth and her boyfriend were in a D.C. bar when the Capitals clinched their first title in June. Afterward, the couple joined thousands of other fans in celebrating Washington’s Game 5 win in Las Vegas in the streets outside of Capital One Arena, and now, she’s a full-on Capitals convert."
+        },
+        {
+            "_id": "GSSFKHWYDNC7XNAA2JNR3E5GPU",
+            "type": "text",
+            "additional_properties": {
+                "comments": [],
+                "inline_comments": [],
+                "_id": 1538683858829
+            },
+            "content": "“She really got caught up in the fervor of it,” Flynn, who remains a Bruins fan but was rooting for Alex Ovechkin to win his first Stanley Cup, said in a phone interview from a D.C.-bound Acela train on Wednesday morning. “When they won, she said, ‘Not to take anything for granted, but if you do make the Capitals’ Stanley Cup banner, buy some tickets and come down.' So, I’ve got a really good reason to go and watch the banner raising, and also spend some time with my daughter.”"
+        },
+        {
+            "_id": "RUPPMMW4L5AKFBYCHR2CJ4Z7Q4",
+            "type": "text",
+            "additional_properties": {
+                "comments": [],
+                "inline_comments": [],
+                "_id": 1538683858830
+            },
+            "content": "<i>[</i><a href=\"https://www.washingtonpost.com/sports/2018/10/02/capitals-stanley-cup-rings-feature-diamonds-rubies-sapphire/?utm_term=.dd9328198439\"><i>The Capitals' Stanley Cup ring features 252 diamonds</i></a><i>]</i>"
+        },
+        {
+            "_id": "7MJYDTO7L5DG7EIEOR55IIYIN4",
+            "type": "text",
+            "additional_properties": {
+                "comments": [],
+                "inline_comments": [],
+                "_id": 1538683858831
+            },
+            "content": "New England Flag &amp; Banner <a href=\"https://www.newenglandflagandbanner.com/about.php\">has been in business since 1892</a> and counts hundreds of pro teams, colleges and high schools as clients. Examples of the company’s handiwork, including banners commemorating division titles and retired numbers, hung in the rafters of Capital One Arena before Wednesday’s pregame ceremony. The company created the enormous Maryland flag that the student section unfurls at every Terps basketball game, in addition to permanent banners in arenas across the country. In 2014, Flynn, who purchased New England Flag &amp; Banner in 2006, estimated his company had <a href=\"http://www.wbur.org/onlyagame/2014/04/12/masters-championship-banner\">about 90 percent market share</a>."
+        },
+        {
+            "_id": "DEBICJYI7VBNHD2YWUB2KLQML4",
+            "type": "text",
+            "additional_properties": {
+                "comments": [],
+                "inline_comments": [],
+                "_id": 1538683858832
+            },
+            "content": "Flynn said the red, white and blue Stanley Cup banner that went up Wednesday took approximately 25 man-hours to make. It’s weighted down by a piece of electrical conduit inserted into a hidden sleeve pocket at the bottom and features a shiny penny, which is sewn behind the label of all of the company’s championship banners. Capitals fans might be happy to know that no such lucky charm hangs over the ice at Pittsburgh’s PPG Paints Arena, as Flynn’s company didn’t make the Penguins' Stanley Cup banners. (For more on the banner-making process, check out <a href=\"https://www.newenglandflagandbanner.com/videos.php?page=making-the-celtics-championship-banner&amp;autostart=true\">this video</a> on the company’s site.)"
+        },
+        {
+            "_id": "OM5477DVQRALXDCUDFSVZHAYU4",
+            "type": "text",
+            "additional_properties": {
+                "comments": [],
+                "inline_comments": [],
+                "_id": 1538683858833
+            },
+            "content": "“For me personally, I know we have obviously nothing to do with the achievement itself, but to help people memorialize their achievements is really fun for me,\" Flynn said before the Capitals' 7-0 rout. “. . . I like to go and just see how excited people get over the symbol that we make. It’s going to be up in the rafters for a long time.”"
+        }
+    ],
+    "created_date": "2018-10-04T15:25:33.833Z",
+    "revision": {
+        "revision_id": "PWGIBY32HBCWFGIKYENXKCJHKY",
+        "parent_id": "JH5XGJMILNBU7B3U76AWFJJNCU",
+        "editions": [
+            "default"
+        ],
+        "branch": "default",
+        "user_id": "pantlinm@washpost.com",
+        "published": true
+    },
+    "last_updated_date": "2018-10-04T20:11:26.224Z",
+    "canonical_url": "/sports/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/",
+    "headlines": {
+        "basic": "Capitals’ Stanley Cup banner features a lucky penny sewn behind the label",
+        "mobile": "",
+        "native": "",
+        "print": "",
+        "tablet": "",
+        "web": "",
+        "meta_title": ""
+    },
+    "owner": {
+        "sponsored": false,
+        "id": "demo"
+    },
+    "address": {},
+    "workflow": {
+        "status_code": 1
+    },
+    "subheadlines": {
+        "basic": ""
+    },
+    "description": {
+        "basic": ""
+    },
+    "language": "",
+    "source": {
+        "system": "ellipsis",
+        "name": "demo",
+        "source_type": "staff"
+    },
+    "label": {},
+    "taxonomy": {
+        "sites": [
+            {
+                "_id": "/sports",
+                "type": "site",
+                "version": "0.5.8",
+                "name": "Sports",
+                "description": "Latest scores and sports.",
+                "path": "/sports",
+                "additional_properties": {
+                    "original": {
+                        "_id": "/sports",
+                        "site": {
+                            "site_title": "Sports",
+                            "site_url": "/sports",
+                            "site_description": "Latest scores and sports.",
+                            "site_keywords": "scores,scoreboard,sports"
+                        },
+                        "name": "Sports",
+                        "_admin": {
+                            "alias_ids": [
+                                "/sports"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                }
+            }
+        ],
+        "tags": [],
+        "sections": [
+            {
+                "_id": "/sports",
+                "_website": "demo",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "Sports",
+                "description": "Latest scores and sports.",
+                "path": "/sports",
+                "additional_properties": {
+                    "original": {
+                        "_id": "/sports",
+                        "site": {
+                            "site_title": "Sports",
+                            "site_url": "/sports",
+                            "site_description": "Latest scores and sports.",
+                            "site_keywords": "scores,scoreboard,sports"
+                        },
+                        "name": "Sports",
+                        "parent": {
+                            "default": null,
+                            "main-site-navigation": "/",
+                            "primary-header-links": "/",
+                            "footer-test": null
+                        },
+                        "ancestors": {
+                            "default": [],
+                            "main-site-navigation": [],
+                            "primary-header-links": [],
+                            "footer-test": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/sports"
+                            ]
+                        },
+                        "inactive": false,
+                        "order": {
+                            "main-site-navigation": 2002,
+                            "primary-header-links": 1003
+                        },
+                        "_website": "demo",
+                        "node_type": "section"
+                    }
+                }
+            },
+            {
+                "_id": "/news",
+                "_website": "the-prophet",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "theprophet.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-prophet",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section",
+                        "order": {
+                            "default": 1001
+                        }
+                    }
+                },
+                "_website_section_id": "the-prophet./news"
+            },
+            {
+                "_id": "/news",
+                "_website": "the-telegraph",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "thetelegraph.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-telegraph",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-telegraph./news"
+            },
+            {
+                "_id": "/news",
+                "_website": "the-bugle",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "thebugle.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-bugle",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-bugle./news"
+            },
+            {
+                "_id": "/news",
+                "_website": "the-mercury",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "themercury.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-mercury",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-mercury./news"
+            },
+            {
+                "_id": "/news",
+                "_website": "the-mirror",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "themirror.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-mirror",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-mirror./news"
+            },
+            {
+                "_id": "/news",
+                "_website": "the-planet",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "theplanet.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-planet",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-planet./news"
+            },
+            {
+                "_id": "/news",
+                "_website": "east-coast-herald",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "eastcoastherald.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "east-coast-herald",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "east-coast-herald./news"
+            },
+            {
+                "_id": "/news",
+                "_website": "west-coast-sun",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "westcoastsun.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "west-coast-sun",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "west-coast-sun./news"
+            },
+            {
+                "_id": "/news",
+                "_website": "the-globe",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "theglobe.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-globe",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-globe./news"
+            },
+            {
+                "_id": "/news",
+                "_website": "the-gazette",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "thegazette.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-gazette",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-gazette./news"
+            }
+        ],
+        "additional_properties": {
+            "parent_site_primaries": []
+        },
+        "primary_site": {
+            "_id": "/sports",
+            "type": "site",
+            "version": "0.5.8",
+            "name": "Sports",
+            "description": "Latest scores and sports.",
+            "path": "/sports",
+            "additional_properties": {
+                "original": {
+                    "_id": "/sports",
+                    "site": {
+                        "site_title": "Sports",
+                        "site_url": "/sports",
+                        "site_description": "Latest scores and sports.",
+                        "site_keywords": "scores,scoreboard,sports"
+                    },
+                    "name": "Sports",
+                    "_admin": {
+                        "alias_ids": [
+                            "/sports"
+                        ]
+                    },
+                    "inactive": false,
+                    "node_type": "section"
+                }
+            }
+        },
+        "primary_section": {
+            "_id": "/sports",
+            "_website": "demo",
+            "type": "section",
+            "version": "0.6.0",
+            "name": "Sports",
+            "description": "Latest scores and sports.",
+            "path": "/sports",
+            "additional_properties": {
+                "original": {
+                    "_id": "/sports",
+                    "site": {
+                        "site_title": "Sports",
+                        "site_url": "/sports",
+                        "site_description": "Latest scores and sports.",
+                        "site_keywords": "scores,scoreboard,sports"
+                    },
+                    "name": "Sports",
+                    "parent": {
+                        "default": null,
+                        "main-site-navigation": "/",
+                        "primary-header-links": "/",
+                        "footer-test": null
+                    },
+                    "ancestors": {
+                        "default": [],
+                        "main-site-navigation": [],
+                        "primary-header-links": [],
+                        "footer-test": []
+                    },
+                    "_admin": {
+                        "alias_ids": [
+                            "/sports"
+                        ]
+                    },
+                    "inactive": false,
+                    "order": {
+                        "main-site-navigation": 2002,
+                        "primary-header-links": 1003
+                    },
+                    "_website": "demo",
+                    "node_type": "section"
+                }
+            }
+        }
+    },
+    "related_content": {
+        "basic": [],
+        "redirect": []
+    },
+    "promo_items": {
+        "basic": {
+            "_id": "E4BC3SQNBFDUFFYMNQGPJZQ2GM",
+            "additional_properties": {
+                "galleries": [],
+                "ingestionMethod": "manual",
+                "keywords": [],
+                "mime_type": "image/jpeg",
+                "originalName": "WIEA4KGHOEI6RHAPF75PNVBCVI.jpg",
+                "originalUrl": "https://arc-anglerfish-arc2-prod-demo.s3.amazonaws.com/public/E4BC3SQNBFDUFFYMNQGPJZQ2GM.jpg",
+                "owner": "megan.pantlin@washpost.com",
+                "proxyUrl": "/photo/resize/tWgSQvuh0HPgeFvqIPgQl00MEwk=/arc-anglerfish-arc2-prod-demo/public/E4BC3SQNBFDUFFYMNQGPJZQ2GM.jpg",
+                "published": true,
+                "resizeUrl": "http://resizer.shared.arcpublishing.com/tWgSQvuh0HPgeFvqIPgQl00MEwk=/arc-anglerfish-arc2-prod-demo/public/E4BC3SQNBFDUFFYMNQGPJZQ2GM.jpg",
+                "restricted": false,
+                "version": 0
+            },
+            "address": {},
+            "created_date": "2018-10-04T15:27:26Z",
+            "credits": {
+                "affiliation": []
+            },
+            "height": 1069,
+            "last_updated_date": "2018-10-04T15:27:26Z",
+            "licensable": false,
+            "owner": {
+                "id": "demo",
+                "sponsored": false
+            },
+            "subtitle": "caps",
+            "type": "image",
+            "url": "https://arc-anglerfish-arc2-prod-demo.s3.amazonaws.com/public/E4BC3SQNBFDUFFYMNQGPJZQ2GM.jpg",
+            "version": "0.6.2",
+            "width": 1484,
+            "selectedDistCat": null
+        }
+    },
+    "distributor": {
+        "name": "demo",
+        "category": "staff",
+        "subcategory": "",
+        "additional_properties": {}
+    },
+    "canonical_website": "demo",
+    "planning": {
+        "scheduling": {
+            "planned_publish_date": "2018-10-04T10:00:11.000Z"
+        },
+        "internal_note": ""
+    },
+    "display_date": "2018-10-04T15:29:33.351Z",
+    "credits": {
+        "by": []
+    },
+    "first_publish_date": "2018-10-04T15:29:33.839Z",
+    "websites": {
+        "demo": {
+            "website_section": {
+                "_id": "/sports",
+                "_website": "demo",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "Sports",
+                "description": "Latest scores and sports.",
+                "path": "/sports",
+                "additional_properties": {
+                    "original": {
+                        "_id": "/sports",
+                        "site": {
+                            "site_title": "Sports",
+                            "site_url": "/sports",
+                            "site_description": "Latest scores and sports.",
+                            "site_keywords": "scores,scoreboard,sports"
+                        },
+                        "name": "Sports",
+                        "parent": {
+                            "default": null,
+                            "main-site-navigation": "/",
+                            "primary-header-links": "/",
+                            "footer-test": null
+                        },
+                        "ancestors": {
+                            "default": [],
+                            "main-site-navigation": [],
+                            "primary-header-links": [],
+                            "footer-test": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/sports"
+                            ]
+                        },
+                        "inactive": false,
+                        "order": {
+                            "main-site-navigation": 2002,
+                            "primary-header-links": 1003
+                        },
+                        "_website": "demo",
+                        "node_type": "section"
+                    }
+                }
+            },
+            "website_url": "/sports/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "the-prophet": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "the-prophet",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "theprophet.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-prophet",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section",
+                        "order": {
+                            "default": 1001
+                        }
+                    }
+                },
+                "_website_section_id": "the-prophet./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "the-telegraph": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "the-telegraph",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "thetelegraph.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-telegraph",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-telegraph./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "the-bugle": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "the-bugle",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "thebugle.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-bugle",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-bugle./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "the-mercury": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "the-mercury",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "themercury.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-mercury",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-mercury./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "the-mirror": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "the-mirror",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "themirror.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-mirror",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-mirror./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "the-planet": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "the-planet",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "theplanet.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-planet",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-planet./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "east-coast-herald": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "east-coast-herald",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "eastcoastherald.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "east-coast-herald",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "east-coast-herald./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "west-coast-sun": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "west-coast-sun",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "westcoastsun.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "west-coast-sun",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "west-coast-sun./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "the-globe": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "the-globe",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "theglobe.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-globe",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-globe./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        },
+        "the-gazette": {
+            "website_section": {
+                "_id": "/news",
+                "_website": "the-gazette",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "News",
+                "description": "News",
+                "path": "/news",
+                "parent_id": "/",
+                "parent": {
+                    "default": "/"
+                },
+                "additional_properties": {
+                    "original": {
+                        "_id": "/news",
+                        "site": {
+                            "site_url": "thegazette.com/news",
+                            "site_description": "News",
+                            "site_keywords": "News",
+                            "site_title": "News"
+                        },
+                        "Ads": {
+                            "dfp_id": null
+                        },
+                        "logo": {
+                            "logo": null,
+                            "logo_align": "left",
+                            "logo_url": null,
+                            "logo_text": null,
+                            "logo_sticky": null
+                        },
+                        "name": "News",
+                        "_website": "the-gazette",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "ancestors": {
+                            "default": []
+                        },
+                        "_admin": {
+                            "alias_ids": [
+                                "/news"
+                            ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                    }
+                },
+                "_website_section_id": "the-gazette./news"
+            },
+            "website_url": "/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+        }
+    },
+    "additional_properties": {
+        "clipboard": {},
+        "has_published_copy": true,
+        "is_published": true,
+        "publish_date": "2018-10-04T15:29:33.839Z"
+    },
+    "publish_date": "2018-10-04T20:11:26.252Z",
+    "publishing": {
+        "scheduled_operations": {
+            "publish_edition": [],
+            "unpublish_edition": []
+        }
+    },
+    "website": "demo",
+    "website_url": "/sports/2018/10/04/capitals-stanley-cup-banner-features-a-lucky-penny-sewn-behind-the-label/"
+}
