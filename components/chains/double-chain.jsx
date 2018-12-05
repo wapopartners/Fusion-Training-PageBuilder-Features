@@ -1,5 +1,3 @@
-'use strict'
-
 /* Fusion libs */
 import Consumer from 'fusion:consumer'
 
@@ -17,13 +15,13 @@ class DoubleChain extends Component {
   	const layout = this.props.customFields.layout
 
     return (
-      <div className={`double_chain | default ${layout}`} id={this.props.id}>
-      	<div className='col_one'>
+      <div className='row' id={this.props.id}>
+      	<div className={ layout }>
       		{this.props.children.map((feature, index) => {
       			return (index < col_one_count) ? feature : ''
       		})}
       	</div>
-      	<div className='col_two'>
+      	<div className={ layout == 'col-md-8' ? 'col-md-4' : 'col-md-8' }>
       		{this.props.children.map((feature, index) => {
       			return (index >= col_one_count) ? feature : ''
       		})}
@@ -38,15 +36,13 @@ DoubleChain.propTypes = {
   customFields: PropTypes.shape({
 	  layout: PropTypes
 	    .oneOf([
-	      'even-width',
-	      'wide-left',
-	      'wide-right'
+	      'col-md-8',
+	      'col-md-4'
 	    ]).tag({
 	      name: 'Layout',
 	      labels: {
-	        'even-width': 'Even Width',
-	        'wide-left': 'Wide Left',
-	        'wide-right': 'Wide Right'
+	        'col-md-8': 'Wide Left',
+	        'col-md-4': 'Wide Right'
 	      }
 	    }),
 	  columnOne:PropTypes.number.isRequired

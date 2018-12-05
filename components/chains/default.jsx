@@ -7,9 +7,4 @@ const DefaultChain = props => (
   </div>
 );
 
-DefaultChain.propTypes = {
-  id: PropTypes.string.isRequired,
-  children: PropTypes.element.isRequired
-};
-
 export default DefaultChain;
