@@ -1,0 +1,36 @@
+{
+    "_id": "U5SQ2EATSNFZHPKT6PFAATTMLE",
+    "type": "story",
+    "version": "0.8.1",
+    "content_elements": [
+        {
+            "_id": "DYLNKN7AKFFZXB57UWJSLNRFP4",
+            "type": "text",
+            "content": "This document was created via a call to the Story API."
+        },
+        {
+            "_id": "N2WYWXWHZJAJ7M4Y64BJTGBPPI",
+            "type": "text",
+            "content": "My favorite animal is the kangaroo."
+        }
+    ],
+    "created_date": "2018-12-05T10:54:28.589Z",
+    "revision": {
+        "revision_id": "XQOSMOG2BVCE5KMYD7V5XO23K4",
+        "branch": "default"
+    },
+    "last_updated_date": "2018-12-05T10:54:28.589Z",
+    "headlines": {
+        "basic": "Melissa's First Arc Document"
+    },
+    "owner": {
+        "id": "demo"
+    },
+    "display_date": "2017-12-11T14:42:51-05:00",
+    "subheadlines": {
+        "basic": "Created in Arc"
+    },
+    "additional_properties": {
+        "has_published_copy": false
+    }
+}
