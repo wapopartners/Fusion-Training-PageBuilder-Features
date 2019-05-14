@@ -11,7 +11,7 @@ class MovieList extends Component {
     this.state = { movies: [], page: 1 }
     this.fetch()
   }
-
+  
   fetch () {
     const { movieQuery = "" } = this.props.customFields
       this.fetchContent({
@@ -23,15 +23,19 @@ class MovieList extends Component {
     }
 
   render () {
+
     const { movies } = this.state
     const { headerText = "" } = this.props.customFields
+    const { inheritGlobal = false } = this.props.customFields
     const { movieQuery = "" } = this.props.customFields
-
+    const globalContent = this.props.globalContent
+    
+    const content = inheritGlobal ? globalContent : movies
     return (
       <Fragment>
-        <h2>{movieQuery}</h2>
+        <h2>{headerText}</h2>
         <div>
-          {movies && movies.Search && movies.Search.map((movie, idx) =>
+          {content && content.Search && content.Search.map((movie, idx) =>
             <div key={`movie-${idx}`}>
               <h4>{movie.Title}</h4>
               <p><strong>Year:</strong> {movie.Year}</p>
@@ -47,12 +51,12 @@ class MovieList extends Component {
 
 MovieList.propTypes = {
     customFields: PropTypes.shape({
+        inheritGlobal: PropTypes.bool,
         headerText: PropTypes.string,
         movieQuery: PropTypes.string,
 
     })
   };
   
-MovieList.static = true
 
 export default MovieList
