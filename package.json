@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@arc-fusion/cli": "^0.1.38"
+    "@arc-fusion/cli": "^1.0.3"
   }
 }
